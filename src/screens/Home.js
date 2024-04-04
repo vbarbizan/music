@@ -9,7 +9,10 @@ export default function Home({navigation}) {
     id: 1,
     title: "KayBlack",
     group: "AC/DC",
-    album_image: "https://soumaisfavela.com.br/wp-content/uploads/2023/03/5054197632860-cover-zoom.jpg"
+    album_image: "https://soumaisfavela.com.br/wp-content/uploads/2023/03/5054197632860-cover-zoom.jpg",
+    album:"Meu Nome Não é Igor",
+    year:2023,
+    genre:"Funk",
   };
 
   return (
